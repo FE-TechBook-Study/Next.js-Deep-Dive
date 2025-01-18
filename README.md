@@ -25,8 +25,8 @@
 | **주차** | **주제**                           | **내용**                                                  | **날짜**           |
 |----------|------------------------------------|-----------------------------------------------------------|--------------------|
 | 1주차    | **Getting Started**                | 1. Installation<br>2. Project Structure                   | 01/05 (일)         |
-| 2주차    | **Building Your Application**      | 1. Routing (Defining Routes ~ Intercepting Routes)         | 01/12 (일)         |
-| 3주차    | **Building Your Application**      | 1. Routing (Route Handlers ~ Internationalization)        | 01/19 (일)         |
+| 2주차    | **Building Your Application**      | 1. Routing (Defining Routes ~ Route Groups)         | 01/12 (일)         |
+| 3주차    | **Building Your Application**      | 1. Routing (Project Organization ~ Internationalization)        | 01/19 (일)         |
 | 4주차    | **Building Your Application**      | 2. Data Fetching                                          | 01/26 (일)         |
 | 5주차    | **Building Your Application**      | 3. Rendering                                               | 02/02 (일)         |
 | 6주차    | **Building Your Application**      | 4. Caching & Styling                                       | 02/09 (일)         |
