@@ -20,7 +20,7 @@
 
 ## 📅 커리큘럼 일정
 
-> **진행 기간**: 2025.01.05 ~ 2025.04.27
+> **진행 기간**: 2025.01.05 ~ 2025.05.04  
 
 | **주차** | **주제**                           | **내용**                                                  | **날짜**           |
 |----------|------------------------------------|-----------------------------------------------------------|--------------------|
@@ -28,19 +28,19 @@
 | 2주차    | **Building Your Application**      | 1. Routing (Defining Routes ~ Route Groups)         | 01/12 (일)         |
 | 3주차    | **Building Your Application**      | 1. Routing (Project Organization ~ Internationalization)        | 01/19 (일)         |
 | 4주차    | **Building Your Application**      | 2. Data Fetching                                          | 02/02 (일)         |
-| 5주차    | **Building Your Application**      | 3. Rendering                                               |02/09 (일)           |
-| 6주차    | **Building Your Application**      | 4. Caching & Styling                                       |02/16 (일)         |
-| 7주차    | **Building Your Application**      | 5. Optimizing                                              |02/23 (일)            |
-| 8주차    | **Building Your Application**      | 6. Configuring & Testing                                   | 03/02 (일)             |
-| 9주차    | **Building Your Application**      | 7. Authentication & Deploying                              | 03/09 (일)             |
-| 10주차   | **API Reference**                   | 1. Components                                              | 03/16 (일)        |
-| 11주차   | **API Reference**                   | 2. File Conventions                                        |  03/23 (일)    |
-| 12주차   | **API Reference**                   | 3. Functions                                               | 03/30 (일)           |
-| 13주차   | **API Reference**                   | 3. Functions (계속)                                       | 04/06 (일)         |
-| 14주차   | **API Reference**                   | 4. next.config.js Options ~ Edge Runtime                  | 04/13 (일)        |
-| 15주차   | **API Reference**                   | 4. next.config.js Options ~ Edge Runtime (계속)           |04/20 (일)           |
-| 16주차   | **Architecture**                    | 1. Accessibility ~ 5. Turbopack                           | 04/27 (일)         |
-
+| 5주차    | **Building Your Application**      | 3. Rendering                                               | 02/09 (일)         |
+| 6주차    | **Building Your Application**      | 4. Caching & Styling                                       | 02/16 (일)         |
+| 7주차    | **Building Your Application**      | 5. Optimizing (Images ~ Scripts)                         | 02/23 (일)         |
+| 8주차    | **Building Your Application**      | 5. Optimizing (Bundle Analyzer ~ Memory Usage)           | 03/02 (일)         |
+| 9주차    | **Building Your Application**      | 6. Configuring & Testing                                  | 03/09 (일)         |
+| 10주차   | **Building Your Application**      | 7. Authentication & Deploying                            | 03/16 (일)         |
+| 11주차   | **복습**                           | 1~10주차 내용 복습 및 질의응답                            | 03/23 (일)         |
+| 12주차   | **API Reference**                   | 1. Components                                              | 03/30 (일)         |
+| 13주차   | **API Reference**                   | 2. File Conventions                                        | 04/06 (일)         |
+| 14주차   | **API Reference**                   | 3. Functions                                               | 04/13 (일)         |
+| 15주차   | **API Reference**                   | 3. Functions (계속)                                       | 04/20 (일)         |
+| 16주차   | **API Reference**                   | 4. next.config.js Options ~ Edge Runtime                  | 04/27 (일)         |
+| 17주차   | **Architecture**                    | 1. Accessibility ~ 5. Turbopack  | 05/04 (일)         |
 ---
 
 
